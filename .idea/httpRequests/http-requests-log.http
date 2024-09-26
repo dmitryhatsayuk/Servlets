@@ -1,0 +1,160 @@
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 43
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post7777"
+}
+
+<> 2024-09-22T103052.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 43
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post7777"
+}
+
+<> 2024-09-22T102804.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 43
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post7777"
+}
+
+<> 2024-09-22T102634.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 42
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Postere"
+}
+
+<> 2024-09-22T102628.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 41
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post56"
+}
+
+<> 2024-09-22T102527.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 41
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post56"
+}
+
+<> 2024-09-22T102306.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 40
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post1"
+}
+
+<> 2024-09-22T102300.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+"id": 1,
+"content": "Last Posoooo"
+}
+
+<> 2024-09-22T102231.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 38
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+"id": 1,
+"content": "Last Postzzz"
+}
+
+<> 2024-09-22T102137.200.json
+
+###
+
+POST http://localhost:8080/api/posts
+Content-Type: application/json
+Content-Length: 39
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.2.1
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+
+{
+  "id": 0,
+  "content": "Last Post"
+}
+
+<> 2024-09-22T102054.200.json
+
+###
+
