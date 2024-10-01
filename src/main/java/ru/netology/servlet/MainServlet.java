@@ -1,7 +1,6 @@
 package ru.netology.servlet;
 
-import org.springframework.beans.factory.support.DefaultListableBeanFactory;
-import org.springframework.beans.factory.xml.XmlBeanDefinitionReader;
+import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 import ru.netology.controller.PostController;
 
 import javax.servlet.http.HttpServlet;
@@ -16,10 +15,9 @@ public class MainServlet extends HttpServlet {
 
     @Override
     public void init() {
-        final var factory = new DefaultListableBeanFactory();
-        final var reader = new XmlBeanDefinitionReader(factory);
-        reader.loadBeanDefinitions("beans.xml");
-        controller = factory.getBean(PostController.class);
+        final var context = new AnnotationConfigApplicationContext("ru.netology");
+
+        controller = context.getBean(PostController.class);
     }
 
     @Override
